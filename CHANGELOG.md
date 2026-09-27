@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.12 · 2026-09-27
+
+**EN**
+- Lytra speaks Spanish. Pick the language from Lytra's icon in the tray, under Language:
+  System, English or Español. System follows Windows. Card names stay as the game prints
+  them.
+- Open your avatar to send an emote, or the opponent's to see their info, and the panel on
+  that side steps aside until the menu closes.
+- The opponent's grid no longer shows a spell of yours, like a Merlin's Once and Future.
+- In the dashboard, each match shows its deck by its cards: the four most expensive in the
+  row, all twelve when you point at them. The deck filter opens on every deck's twelve.
+
+**ES**
+- Lytra habla español. Elige el idioma desde el ícono de Lytra en la bandeja, en Language:
+  System, English o Español. System sigue el idioma de Windows. Los nombres de las cartas
+  quedan como los escribe el juego.
+- Abre tu avatar para mandar un emote, o el del rival para ver su info, y el panel de ese
+  lado se aparta hasta que cierres el menú.
+- La grilla del rival ya no muestra un hechizo tuyo, como el Once and Future de un Merlin.
+- En el dashboard, cada partida muestra su mazo por sus cartas: las cuatro más caras en la
+  fila y las doce al pasar el mouse. El filtro de mazos se abre con las doce de cada uno.
+
 ## 0.1.11 · 2026-09-27
 
 **EN**
