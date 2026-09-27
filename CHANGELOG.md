@@ -2,6 +2,48 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.10 · 2026-09-27
+
+**EN**
+- A new logo: cards arriving one after another, the newest in front. On the app, the
+  installer, the tray and the dashboard.
+- Every Conquest round is kept. The game does not always save a round's result before the
+  next one starts, and some rounds went missing from your record; Lytra now reads each
+  result as the round ends.
+- A deck you edit or clone is followed at once. The overlay no longer shows the deck from
+  before for several matches.
+- The opponent's grid: a card they transformed (Polymorph, Klyntar) keeps its place under
+  its own name, and a spell they were given, like Merlin's, no longer takes a place among
+  their twelve.
+- Spells go first among the cards of their cost, on both grids and in the dashboard.
+- Tray: *Hide between matches* puts the whole overlay away when a match ends, and the
+  next match brings it back.
+- Dashboard: "You" and "Opponent" instead of "We" and "They"; the turn each side snapped
+  on, in a match's detail, from this version's matches on; a Conquest duel's rounds open
+  from a button that says so; and Decks shows each deck as a card, its twelve in full art.
+- The overlay's **YOU** is in Lytra's violet.
+
+**ES**
+- Un logo nuevo: cartas que llegan una tras otra, la más nueva al frente. En la app, el
+  instalador, la bandeja y el dashboard.
+- Se guardan todas las rondas de Conquista. El juego no siempre guarda el resultado de una
+  ronda antes de empezar la siguiente, y faltaban rondas en tu registro; ahora Lytra lee
+  cada resultado al terminar la ronda.
+- Un mazo que editas o clonas se sigue al instante. El overlay ya no muestra el mazo
+  anterior durante varias partidas.
+- La grilla del rival: una carta que transformó (Polymorph, Klyntar) conserva su lugar con
+  su propio nombre, y un hechizo que le dieron, como los de Merlin, ya no ocupa un lugar
+  entre sus doce.
+- Los hechizos van primero entre las cartas de su coste, en las dos grillas y en el
+  dashboard.
+- Bandeja: *Hide between matches* oculta todo el overlay al terminar una partida, y la
+  siguiente lo trae de vuelta.
+- Dashboard: "You" y "Opponent" en vez de "We" y "They"; el turno en que cada lado hizo
+  snap, en el detalle de la partida, desde las partidas de esta versión; las rondas de un
+  duelo de Conquista se abren desde un botón que lo dice; y Decks muestra cada mazo como
+  una tarjeta, con sus doce cartas en arte completo.
+- El **YOU** del overlay va en el violeta de Lytra.
+
 ## 0.1.9 · 2026-09-26
 
 **EN**
