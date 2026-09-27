@@ -2,6 +2,34 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.11 · 2026-09-27
+
+**EN**
+- Your deck is followed from the game itself. Switch, edit or clone a deck and the overlay
+  has it at once, skins included.
+- The opponent's grid comes from what the game knows, not from guesses. A card they were
+  given, like a Merlin's spell or a Prowler's tool, or one of theirs that was transformed,
+  no longer takes a place among their twelve.
+- In a Conquest duel or a friendly and its rematches, what earlier games showed of their
+  deck stays on their grid, even if Lytra restarts. A new challenge starts clean, since it
+  can bring another deck.
+- If Lytra restarts in the middle of a match, to take an update for instance, it picks up
+  where it left off.
+- Lytra reads the game as soon as something happens on the board.
+
+**ES**
+- Tu mazo se sigue desde el propio juego. Cambias, editas o clonas un mazo y el overlay lo
+  tiene al instante, con sus skins.
+- La grilla del rival sale de lo que sabe el juego, no de suposiciones. Una carta que le
+  dieron, como un hechizo de Merlin o una herramienta de Prowler, o una suya que se
+  transformó, ya no ocupa un lugar entre sus doce.
+- En un duelo de Conquista o en un amistoso con sus revanchas, lo que las partidas
+  anteriores mostraron de su mazo se queda en su grilla, aunque Lytra se reinicie. Un
+  desafío nuevo empieza limpio, porque puede traer otro mazo.
+- Si Lytra se reinicia en medio de una partida, por ejemplo para instalar una
+  actualización, sigue donde quedó.
+- Lytra lee el juego apenas pasa algo en el tablero.
+
 ## 0.1.10 · 2026-09-27
 
 **EN**
