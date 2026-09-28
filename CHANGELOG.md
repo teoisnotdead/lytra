@@ -2,6 +2,24 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.13 · 2026-09-27
+
+**EN**
+- The overlay on your stream: in the tray, *Copy OBS link*, and paste it in OBS as a
+  Browser source the size of your canvas (1920 × 1080 in most setups). It lines up with
+  the game from the start, over a transparent background, and follows your overlay: what
+  you collapse or hide, and a panel stepping aside for an avatar menu, go on stream too.
+- Lytra opens once. Opening it again while it runs brings its overlay back, even hidden or
+  collapsed, instead of a second copy drawing a second overlay over the first.
+
+**ES**
+- El overlay en tu stream: en la bandeja, *Copy OBS link*, y pégalo en OBS como Fuente de
+  navegador del tamaño de tu lienzo (1920 × 1080 en la mayoría). Calza con el juego desde
+  el principio, con fondo transparente, y sigue a tu overlay: lo que colapsas u ocultas, y
+  un panel que se aparta por un menú de avatar, también en el stream.
+- Lytra se abre una sola vez. Si lo abres de nuevo mientras corre, vuelve a mostrar su
+  overlay, aunque esté oculto o colapsado, en vez de dibujar una segunda copia encima.
+
 ## 0.1.12 · 2026-09-27
 
 **EN**
