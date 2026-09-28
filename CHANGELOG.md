@@ -2,6 +2,42 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.14 · 2026-09-28
+
+**EN**
+- The panels take the same share of the screen on every monitor: smaller on a laptop or
+  with Windows' scaling up, larger on a 1440p or 4K screen. A 1080p screen at 100% looks as
+  before, and so does the stream.
+- Cards are framed as the game frames them, in the overlay and the dashboard: the art
+  larger, and each name at the game's size, hanging a little over the card's bottom edge.
+- Some skins that showed the card's base art now show their own, a Merlin among them.
+- Cards drawn wrong are drawn right: Hulk, Quicksilver, Misty Knight, Captain America, Iron
+  Man, Spider-Man, Mister Fantastic, The Thing and others no longer show a head or an arm
+  out of place, or a piece missing. So the first launch after this update draws every card
+  picture again: about a minute, and the panel says so while it works.
+- In the tray, *Save a bug report*: one file on your Desktop with what Lytra saw, ready to
+  send us on Discord or GitHub. Nothing is sent on its own.
+- In the tray, *Deck record* is now *Show deck stats*: it shows or hides the stats under
+  your deck.
+
+**ES**
+- Los paneles ocupan la misma parte de la pantalla en cualquier monitor: más chicos en un
+  notebook o con el escalado de Windows alto, más grandes en una pantalla 1440p o 4K. Una
+  pantalla 1080p al 100% se ve igual que antes, y el stream también.
+- Las cartas se encuadran como en el juego, en el overlay y en el dashboard: el arte más
+  grande y cada nombre del tamaño del juego, asomando un poco sobre el borde inferior.
+- Algunas skins que mostraban el arte base de la carta ahora muestran el suyo, un Merlin
+  entre ellas.
+- Las cartas que se veían mal ahora se ven bien: Hulk, Quicksilver, Misty Knight, Capitán
+  América, Iron Man, Spider-Man, Mr. Fantástico, La Mole y otras ya no muestran una cabeza o
+  un brazo fuera de lugar, ni les falta una parte. Por eso la primera vez que abras Lytra
+  después de actualizar vuelve a dibujar todas las imágenes de las cartas: cerca de un
+  minuto, y el panel lo indica mientras trabaja.
+- En la bandeja, *Save a bug report*: un archivo en tu escritorio con lo que vio Lytra,
+  listo para mandarnos por Discord o GitHub. No se envía nada solo.
+- En la bandeja, *Deck record* ahora se llama *Show deck stats*: muestra u oculta las
+  estadísticas bajo tu mazo.
+
 ## 0.1.13 · 2026-09-27
 
 **EN**
@@ -45,39 +81,35 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
 ## 0.1.11 · 2026-09-27
 
 **EN**
-- Your deck is followed from the game itself. Switch, edit or clone a deck and the overlay
-  has it at once, skins included.
-- The opponent's grid comes from what the game knows, not from guesses. A card they were
-  given, like a Merlin's spell or a Prowler's tool, or one of theirs that was transformed,
-  no longer takes a place among their twelve.
+- Switch, edit or clone a deck and the overlay has it at once, skins included.
+- The opponent's grid is more accurate: a card they were given, like a Merlin's spell or a
+  Prowler's tool, or one of theirs that was transformed, no longer takes a place among
+  their twelve.
 - In a Conquest duel or a friendly and its rematches, what earlier games showed of their
   deck stays on their grid, even if Lytra restarts. A new challenge starts clean, since it
   can bring another deck.
 - If Lytra restarts in the middle of a match, to take an update for instance, it picks up
   where it left off.
-- Lytra reads the game as soon as something happens on the board.
+- The overlay updates the moment something happens on the board.
 
 **ES**
-- Tu mazo se sigue desde el propio juego. Cambias, editas o clonas un mazo y el overlay lo
-  tiene al instante, con sus skins.
-- La grilla del rival sale de lo que sabe el juego, no de suposiciones. Una carta que le
-  dieron, como un hechizo de Merlin o una herramienta de Prowler, o una suya que se
-  transformó, ya no ocupa un lugar entre sus doce.
+- Cambias, editas o clonas un mazo y el overlay lo tiene al instante, con sus skins.
+- La grilla del rival es más precisa: una carta que le dieron, como un hechizo de Merlin o
+  una herramienta de Prowler, o una suya que se transformó, ya no ocupa un lugar entre sus
+  doce.
 - En un duelo de Conquista o en un amistoso con sus revanchas, lo que las partidas
   anteriores mostraron de su mazo se queda en su grilla, aunque Lytra se reinicie. Un
   desafío nuevo empieza limpio, porque puede traer otro mazo.
 - Si Lytra se reinicia en medio de una partida, por ejemplo para instalar una
   actualización, sigue donde quedó.
-- Lytra lee el juego apenas pasa algo en el tablero.
+- El overlay se actualiza apenas pasa algo en el tablero.
 
 ## 0.1.10 · 2026-09-27
 
 **EN**
 - A new logo: cards arriving one after another, the newest in front. On the app, the
   installer, the tray and the dashboard.
-- Every Conquest round is kept. The game does not always save a round's result before the
-  next one starts, and some rounds went missing from your record; Lytra now reads each
-  result as the round ends.
+- Every Conquest round is kept in your record: some went missing before.
 - A deck you edit or clone is followed at once. The overlay no longer shows the deck from
   before for several matches.
 - The opponent's grid: a card they transformed (Polymorph, Klyntar) keeps its place under
@@ -94,9 +126,7 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
 **ES**
 - Un logo nuevo: cartas que llegan una tras otra, la más nueva al frente. En la app, el
   instalador, la bandeja y el dashboard.
-- Se guardan todas las rondas de Conquista. El juego no siempre guarda el resultado de una
-  ronda antes de empezar la siguiente, y faltaban rondas en tu registro; ahora Lytra lee
-  cada resultado al terminar la ronda.
+- Todas las rondas de Conquista quedan en tu récord: antes faltaban algunas.
 - Un mazo que editas o clonas se sigue al instante. El overlay ya no muestra el mazo
   anterior durante varias partidas.
 - La grilla del rival: una carta que transformó (Polymorph, Klyntar) conserva su lugar con
@@ -136,7 +166,7 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
 - The dashboard, in your browser: an overview of your matches, every match with its
   detail, and your decks with how each card does in them. Open it by clicking **YOU** on
   the overlay, or *Open dashboard* in the tray.
-- The overlay's text is set in Geist.
+- A new typeface on the overlay.
 - The left panel's title reads **YOU** and your deck's name. The mode is on the record
   under your deck.
 - Lytra now keeps which location each of your cards was played at.
@@ -145,7 +175,7 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
 - El dashboard, en tu navegador: un resumen de tus partidas, cada partida con su detalle,
   y tus mazos con cómo rinde cada carta. Se abre con un clic en **YOU** en el overlay, o
   en *Open dashboard* en la bandeja.
-- La letra del overlay es Geist.
+- Una tipografía nueva en el overlay.
 - El título del panel izquierdo dice **YOU** y el nombre de tu mazo. El modo está en el
   récord bajo tu mazo.
 - Lytra ahora guarda en qué locación jugaste cada carta.
@@ -201,14 +231,14 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
   cubes with the exact twelve cards you play.
 - Cards taken from the other side are marked, on both panels.
 - *Grid* (4 × 3, 3 × 4, 6 × 2) and *Size* (Small, Normal, Large) in the tray.
-- A deck you edit between matches is read again.
+- The overlay picks up a deck you edit between matches.
 
 **ES**
 - Cada partida se guarda, y el récord de tu mazo aparece bajo él: victorias, derrotas,
   empates y cubos con las doce cartas exactas que juegas.
 - Las cartas tomadas del otro lado se marcan, en ambos paneles.
 - *Grid* (4 × 3, 3 × 4, 6 × 2) y *Size* (Small, Normal, Large) en la bandeja.
-- Un mazo que editas entre partidas se vuelve a leer.
+- El overlay toma los cambios de un mazo que editas entre partidas.
 
 ## 0.1.3 · 2026-09-24
 
