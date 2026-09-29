@@ -2,6 +2,42 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.15 · 2026-09-28
+
+**EN**
+- Draft: your panel shows the deck you drafted, for the run you are playing, instead of
+  your selected deck. Draft matches are not saved to your stats, and the stats under your
+  deck say so.
+- Draft: the extra abilities a draft gives a card no longer show up as cards on the
+  opponent's grid.
+- A deck with two copies of a card counts each copy on its own: drawing one no longer
+  marks both.
+- Card names and texts follow Lytra's language: in Spanish, the game's own Spanish.
+- A deck's card stats show each side as soon as it has 5 matches: the win rate with a card
+  drawn no longer waits for 5 matches without it.
+- Lytra starts collapsed and opens when a match begins, or right away if you open it
+  mid-match. It collapses again when you close the game. With *Hide between matches* on,
+  it stays out of sight instead.
+- Draw odds know Domino: it is always your turn 2 draw, and never an earlier one.
+
+**ES**
+- Draft: tu panel muestra el mazo que armaste en el draft, el de la run que estás jugando,
+  en vez de tu mazo seleccionado. Las partidas de Draft no se guardan en tus estadísticas, y
+  las estadísticas bajo tu mazo lo indican.
+- Draft: las habilidades extra que el draft le da a una carta ya no aparecen como cartas en
+  la grilla del rival.
+- Un mazo con dos copias de una carta cuenta cada copia por separado: robar una ya no marca
+  las dos.
+- Los nombres y textos de las cartas siguen el idioma de Lytra: en español, el mismo
+  español del juego.
+- Las estadísticas de cartas de un mazo muestran cada lado apenas junta 5 partidas: el % de
+  victorias con la carta robada ya no espera 5 partidas sin robarla.
+- Lytra inicia colapsado y se abre cuando empieza la partida, o de inmediato si lo abres en
+  medio de una. Se vuelve a colapsar al cerrar el juego. Con *Hide between matches*
+  activado, queda oculto.
+- Las probabilidades de robo conocen a Domino: siempre es tu robo del turno 2, y nunca uno
+  anterior.
+
 ## 0.1.14 · 2026-09-28
 
 **EN**
