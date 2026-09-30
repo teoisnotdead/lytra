@@ -2,6 +2,22 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.17 · 2026-09-30
+
+**EN**
+- When a new version of Lytra comes out while you play, your panel says so: an *Update*
+  button at the top, where your deck's name goes. Click it and Lytra restarts with the new
+  version; the game stays open. Nothing restarts until you click.
+- Draft: your run's dots have a W before the wins and an L after the losses, and the
+  record beside them is gone: the dots already count it.
+
+**ES**
+- Cuando sale una nueva versión de Lytra mientras juegas, tu panel lo avisa: un botón
+  *Actualizar* arriba, donde va el nombre de tu mazo. Haz clic y Lytra se reinicia con la
+  nueva versión; el juego sigue abierto. Nada se reinicia hasta que hagas clic.
+- Draft: los puntos de tu run llevan una V antes de las victorias y una D después de las
+  derrotas, y el récord que tenían al lado ya no está: los puntos ya lo cuentan.
+
 ## 0.1.16 · 2026-09-30
 
 **EN**
