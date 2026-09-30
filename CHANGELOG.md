@@ -2,6 +2,24 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.16 · 2026-09-30
+
+**EN**
+- Draft: the stats under your deck show how your run is going: a dot for each win and each
+  loss the event allows, filled as they come, and the record beside them (1–1). When the
+  run ends, it says so.
+- The panels step aside for an avatar's menu as soon as the game opens it, from the first
+  seconds of a match, instead of most of a turn later.
+- With the game closed, Lytra waits for it instead of showing your last match.
+
+**ES**
+- Draft: las estadísticas bajo tu mazo muestran cómo va tu run: un punto por cada victoria
+  y cada derrota que permite el evento, que se llenan a medida que llegan, y el récord al
+  lado (1–1). Cuando la run termina, lo indica.
+- Los paneles se apartan del menú de un avatar apenas el juego lo abre, desde los primeros
+  segundos de la partida, en vez de casi un turno después.
+- Con el juego cerrado, Lytra lo espera en vez de mostrar tu última partida.
+
 ## 0.1.15 · 2026-09-28
 
 **EN**
