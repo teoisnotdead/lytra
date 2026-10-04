@@ -2,6 +2,40 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.18 · 2026-10-04
+
+**EN**
+- Draft: your cards wear the variant you set as favorite in your collection, as they do in
+  the game.
+- On both grids, each cost now leads with its lightest card: spells first, then power from
+  low to high. The dashboard shows decks in the same order.
+- Thanos Fractured Frontier follows the game's change: it starts the match with no Infinity
+  Shot loaded, and its ring appears with the first one it loads.
+- At the start of a match, the panels step aside for the avatar menus and show your
+  opponent's name right away. In some matches both waited several seconds.
+- Lytra is lighter while you play: the panels keep up on busy turns, and Lytra no longer
+  searches the game's memory while you are in the menus.
+- Opening Lytra and the game together, Lytra finds the game within seconds. It could wait
+  five minutes, and your first Draft match then showed your selected deck.
+- *Save a bug report* also takes a timeline of how each match started: what we need to find
+  out why something came late.
+
+**ES**
+- Draft: tus cartas llevan la variante que marcaste como favorita en tu colección, como en
+  el juego.
+- En las dos grillas, cada coste empieza por su carta más liviana: primero los hechizos,
+  luego de menor a mayor poder. El dashboard muestra los mazos en el mismo orden.
+- Frontera fracturada de Thanos sigue el cambio del juego: empieza la partida sin ningún
+  disparo cargado, y su anillo aparece con el primero que carga.
+- Al empezar una partida, los paneles se apartan de los menús de los avatares y muestran
+  el nombre de tu rival al instante. En algunas partidas ambos tardaban varios segundos.
+- Lytra es más liviano mientras juegas: los paneles no se atrasan en los turnos con mucho
+  movimiento, y Lytra ya no busca en la memoria del juego mientras estás en los menús.
+- Si abres Lytra y el juego a la vez, Lytra encuentra el juego en segundos. Podía esperar
+  cinco minutos, y tu primera partida de Draft mostraba entonces tu mazo seleccionado.
+- *Save a bug report* también guarda una línea de tiempo de cómo empezó cada partida: lo
+  que necesitamos para saber por qué algo llegó tarde.
+
 ## 0.1.17 · 2026-09-30
 
 **EN**
