@@ -2,6 +2,30 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.19 · 2026-10-05
+
+**EN**
+- Draft: beside your run's dots, a heart while you have an extra life to continue after
+  your last loss, crossed out once you have used it this run; and the daily bonus for five
+  wins: the mystery card while it is still yours to take today, a green check once taken.
+  Point at either for the rest: your tokens, and when the bonus renews.
+- Draft: a card's augment is in its tooltip, under the card's own text, headed "Draft":
+  yours once you draw the card, your opponent's once they reveal it.
+- Draft: no more "by end" odds, since a Draft match has no fixed last turn. It read 0% in a
+  match's last turns while there were still draws to come.
+
+**ES**
+- Draft: junto a los puntos de tu run, un corazón mientras tengas una vida extra para
+  continuar tras tu última derrota, tachado cuando ya la usaste en la run; y la
+  bonificación diaria por cinco victorias: la carta misteriosa mientras aún puedas sacarla
+  hoy, un check verde cuando ya la sacaste. Pasa el puntero por encima para ver el resto:
+  tus fichas y cuándo se renueva la bonificación.
+- Draft: el efecto extra de una carta aparece en su tooltip, bajo el texto de la carta, con
+  el título "Draft": el de las tuyas cuando las robas, el de las de tu rival cuando las
+  revela.
+- Draft: ya no aparece el % "al final", porque una partida de Draft no tiene un último turno
+  fijo. Marcaba 0% en los últimos turnos aunque aún quedaban robos.
+
 ## 0.1.18 · 2026-10-04
 
 **EN**
