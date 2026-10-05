@@ -28,9 +28,10 @@ anything into the game, change it or automate it — and it shows only what the 
 already shows you: never your opponent's hand, deck or draws. Card pictures come from
 your own installation of the game.
 
-**Nothing about you leaves your computer.** Lytra's one connection is to this page, to
-check for new versions and download them. Your match history and the dashboard stay on
-your computer. No account, no sign-in.
+**Nothing about you leaves your computer unless you send it.** Lytra connects to this
+page to check for new versions and download them, and to lytra.app only when you choose
+*Send a bug report*. Your match history and the dashboard stay on your computer. No
+account, no sign-in.
 
 ## Installing
 
@@ -40,6 +41,14 @@ Windows may say it "protected your PC", because the installer is not signed: cho
 
 To stop it, right-click its icon in the taskbar's notification area and choose *Quit
 Lytra*. Uninstall it from Windows' *Installed apps*.
+
+## Bugs, ideas and news
+
+On **[Lytra's Discord](https://discord.gg/QNSTW2PNqF)**: new versions in #announcements,
+bugs in #bug-reports, and your ideas. Right after a bug happens, choose *Send a
+bug report* in Lytra's tray menu: it sends what Lytra saw, privately, and copies a code.
+Post that code with what went wrong — never the report's file, which holds your profile
+and your opponents' names.
 
 ## Not affiliated
 
@@ -78,9 +87,10 @@ inyecta nada en el juego, no lo modifica ni lo automatiza — y muestra solo lo 
 ya te muestra: nunca la mano, el mazo ni los robos de tu rival. Las imágenes de las cartas
 salen de tu propia instalación del juego.
 
-**Nada tuyo sale de tu computador.** La única conexión de Lytra es con esta página, para
-buscar versiones nuevas y descargarlas. Tu historial de partidas y el dashboard se quedan
-en tu computador. Sin cuenta, sin iniciar sesión.
+**Nada tuyo sale de tu computador, salvo lo que tú envías.** Lytra se conecta con esta
+página para buscar versiones nuevas y descargarlas, y con lytra.app solo cuando eliges
+*Send a bug report*. Tu historial de partidas y el dashboard se quedan en tu computador.
+Sin cuenta, sin iniciar sesión.
 
 ## Instalar
 
@@ -91,6 +101,14 @@ Lytra lo encuentra.
 
 Para cerrarlo, haz clic derecho en su icono en el área de notificación de la barra de
 tareas y elige *Quit Lytra*. Se desinstala desde *Aplicaciones instaladas* de Windows.
+
+## Bugs, ideas y novedades
+
+En el **[Discord de Lytra](https://discord.gg/QNSTW2PNqF)**: las versiones nuevas en
+#announcements, los bugs en #bug-reports, y tus ideas. Justo después de un
+bug, elige *Send a bug report* en el menú de Lytra en la bandeja: envía lo que vio Lytra, en
+privado, y copia un código. Publica ese código contando qué salió mal — nunca el archivo
+del reporte, que tiene tu perfil y los nombres de tus rivales.
 
 ## Sin afiliación
 
