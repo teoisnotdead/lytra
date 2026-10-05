@@ -2,6 +2,27 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.20 · 2026-10-05
+
+**EN**
+- In the tray, *Save a bug report* is now *Send a bug report*: it sends what Lytra saw to
+  Lytra's author, privately, and copies a code. Post that code in #bug-reports on [Lytra's
+  Discord](https://discord.gg/QNSTW2PNqF), with what went wrong — never the file. Offline,
+  the report is saved on your Desktop as before, and the dashboard sends it again.
+- The dashboard has a Bug reports page: each report's code, when you made it, and the
+  version that fixed it, once one does.
+- The terms say what a bug report sends, and that it is deleted after 90 days.
+
+**ES**
+- En la bandeja, *Save a bug report* ahora es *Send a bug report*: envía lo que vio Lytra a
+  su autor, en privado, y copia un código. Publica ese código en #bug-reports del [Discord
+  de Lytra](https://discord.gg/QNSTW2PNqF), contando qué salió mal — nunca el archivo. Sin
+  conexión, el reporte se guarda en tu Escritorio como antes, y el dashboard lo envía de
+  nuevo.
+- El dashboard tiene una página de reportes de bugs: el código de cada reporte, cuándo lo
+  hiciste y la versión que lo arregló, cuando la haya.
+- Las condiciones dicen qué envía un reporte de bug, y que se borra a los 90 días.
+
 ## 0.1.19 · 2026-10-05
 
 **EN**
