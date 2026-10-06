@@ -2,6 +2,38 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.21 · 2026-10-06
+
+**EN**
+- The opponent's panel marks a probable bot beside their name: their account sends no
+  region and no emote set, and every player's does. "Probable", because the game never says
+  so outright.
+- The dashboard's Decks page is new: the period's win rate, net cubes and matches up top;
+  your decks in the order you choose (recent, most played, cubes per game, win rate); and
+  for each deck its cubes per game, a ring of its wins, its record, and its cubes per win
+  and per loss.
+- Copy code on each deck: the deck as the game copies it, ready to paste in MARVEL SNAP's
+  deck editor.
+- The dashboard's cards wear Lytra's frame, with the cost and power drawn over the corners.
+- Fixed: a Draft match could be kept in your history with the wrong date when Lytra opened
+  after it had ended (LY-V6VYYK).
+- Fixed: in Spanish, Draft's odds line lost its label.
+
+**ES**
+- El panel del rival marca a un bot probable junto a su nombre: su cuenta no trae región ni
+  set de emotes, y la de cualquier jugador sí. "Probable", porque el juego nunca lo dice.
+- La página de Mazos del dashboard es nueva: arriba, tu % de victorias, cubos netos y
+  partidas del periodo; tus mazos en el orden que elijas (recientes, más jugados, cubos por
+  partida, % de victorias); y de cada mazo sus cubos por partida, un anillo con sus
+  victorias, su récord y sus cubos por victoria y por derrota.
+- Copiar código en cada mazo: el mazo como lo copia el juego, listo para pegar en el editor
+  de mazos de MARVEL SNAP.
+- Las cartas del dashboard llevan el marco de Lytra, con el coste y el poder sobre las
+  esquinas.
+- Arreglado: una partida de Draft podía quedar en tu historial con la fecha equivocada si
+  Lytra se abría después de que terminara (LY-V6VYYK).
+- Arreglado: en español, la línea de probabilidades de Draft perdía su etiqueta.
+
 ## 0.1.20 · 2026-10-05
 
 **EN**
