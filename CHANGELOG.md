@@ -2,6 +2,33 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.22 · 2026-10-06
+
+**EN**
+- Public profile: a page of your own at stats.lytra.app, under the name you choose, with
+  your Ranked and Conquest decks as the dashboard's Decks page shows them (win rate, cubes,
+  Copy code) and the links you add: Twitch, Kick, YouTube, X, Discord. It is off until you
+  turn it on, on the dashboard's new Public profile page.
+- With *Update after every match* on, each match goes up as it ends; *Update now* sends
+  them all again. Hide the page, change its name or delete it at any time: deleting frees
+  the name.
+- Your opponents never go up: not their names, not their cards.
+- The terms say what a profile publishes and how to delete it, and that stats.lytra.app
+  shows the game's card art from its own copy.
+
+**ES**
+- Perfil público: una página tuya en stats.lytra.app, bajo el nombre que elijas, con tus
+  mazos de Clasificatoria y Conquista como los muestra la página de Mazos del dashboard (%
+  de victorias, cubos, Copiar código) y los links que agregues: Twitch, Kick, YouTube, X,
+  Discord. Está apagado hasta que lo enciendes, en la nueva página Perfil público del
+  dashboard.
+- Con *Actualizar después de cada partida* encendido, cada partida se sube al terminar;
+  *Actualizar ahora* las manda todas de nuevo. Oculta la página, cámbiale el nombre o
+  bórrala cuando quieras: borrarla libera el nombre.
+- Tus rivales nunca se suben: ni sus nombres ni sus cartas.
+- Las condiciones dicen qué publica un perfil y cómo borrarlo, y que stats.lytra.app
+  muestra las ilustraciones de las cartas desde una copia propia.
+
 ## 0.1.21 · 2026-10-06
 
 **EN**
