@@ -18,6 +18,9 @@ the file ending in `-setup.exe`. What changed in each version is in the
 - **A dashboard in your browser**: every match you played while Lytra ran, your decks and
   how each card does in them. Click **YOU** on the overlay, or *Open dashboard* in the
   tray.
+- **A quiz for your stream's chat**: a card's ability with its telling words blanked, and
+  your Twitch or Kick chat racing to name the card with `!r a` to `!r d`. On the
+  dashboard's Quiz page, shown in OBS as a browser source.
 - **Updates itself**: when it opens, it installs a newer version if there is one.
 
 ## What it reads, and what it does not
@@ -30,8 +33,9 @@ your own installation of the game.
 
 **Nothing about you leaves your computer unless you send it.** Lytra connects to this
 page to check for new versions and download them, and to lytra.app only when you choose
-*Send a bug report*. Your match history and the dashboard stay on your computer. No
-account, no sign-in.
+*Send a bug report*. While you run the stream quiz it reads your Twitch or Kick channel's
+chat, the public one anyone sees, without signing in and without writing to it. Your match
+history and the dashboard stay on your computer. No account, no sign-in.
 
 ## Installing
 
@@ -77,6 +81,9 @@ el archivo que termina en `-setup.exe`. Qué cambió en cada versión está en e
 - **Un dashboard en tu navegador**: cada partida que jugaste con Lytra abierto, tus mazos
   y cómo rinde cada carta en ellos. Haz clic en **YOU** en el overlay, o en *Open
   dashboard* en la bandeja.
+- **Un quiz para el chat de tu stream**: la habilidad de una carta con sus palabras clave
+  tapadas, y tu chat de Twitch o Kick compitiendo por nombrar la carta con `!r a` a
+  `!r d`. En la página Quiz del dashboard, y en OBS como fuente de navegador.
 - **Se actualiza solo**: al abrirse, instala la versión nueva si la hay.
 
 ## Qué lee, y qué no
@@ -89,8 +96,9 @@ salen de tu propia instalación del juego.
 
 **Nada tuyo sale de tu computador, salvo lo que tú envías.** Lytra se conecta con esta
 página para buscar versiones nuevas y descargarlas, y con lytra.app solo cuando eliges
-*Send a bug report*. Tu historial de partidas y el dashboard se quedan en tu computador.
-Sin cuenta, sin iniciar sesión.
+*Send a bug report*. Mientras usas el quiz del stream lee el chat de tu canal de Twitch o
+Kick, el público que ve cualquiera, sin iniciar sesión y sin escribir en él. Tu historial
+de partidas y el dashboard se quedan en tu computador. Sin cuenta, sin iniciar sesión.
 
 ## Instalar
 

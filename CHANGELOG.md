@@ -2,6 +2,35 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.25 · 2026-10-07
+
+**EN**
+- Stream quiz: a game for your stream's chat, on the dashboard's new Quiz page. A card's
+  ability with its telling words blanked and four cards to pick from; the chat answers
+  with `!r a` to `!r d`, the fastest right answer scores the most, and the most points
+  after the last question wins. Add `http://127.0.0.1:47730/quiz/` to OBS as a browser
+  source, and start, pause, restart a round or end the game from the Quiz page.
+- It reads your Twitch or Kick chat, or both, without signing in, and never writes to it.
+  The questions come from the game's own cards, in Lytra's language or the one you pick,
+  and never about a card that is not out yet.
+- The overlay on your stream, and the quiz, now reload by themselves when Lytra updates.
+  Refresh your OBS source once after this update; from then on there is no need.
+- The dashboard's menu is in three parts: your stats, the stream, and your account.
+
+**ES**
+- Quiz para el stream: un juego para el chat de tu stream, en la nueva página Quiz del
+  dashboard. La habilidad de una carta con sus palabras clave tapadas y cuatro cartas para
+  elegir; el chat responde con `!r a` a `!r d`, la respuesta correcta más rápida suma
+  más, y gana quien tiene más puntos tras la última pregunta. Agrega
+  `http://127.0.0.1:47730/quiz/` a OBS como fuente de navegador, y empieza, pausa,
+  reinicia una ronda o termina la partida desde la página Quiz.
+- Lee tu chat de Twitch o de Kick, o los dos, sin iniciar sesión, y nunca escribe en él.
+  Las preguntas salen de las cartas del propio juego, en el idioma de Lytra o en el que
+  elijas, y nunca de una carta que todavía no ha salido.
+- El overlay en tu stream, y el quiz, ahora se recargan solos cuando Lytra se actualiza.
+  Actualiza tu fuente de OBS una vez después de esta versión; desde ahí ya no hace falta.
+- El menú del dashboard está en tres partes: tus estadísticas, el stream y tu cuenta.
+
 ## 0.1.24 · 2026-10-06
 
 **EN**
