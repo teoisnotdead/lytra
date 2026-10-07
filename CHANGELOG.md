@@ -2,6 +2,18 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.23 · 2026-10-06
+
+**EN**
+- The overlay on your stream (*Copy OBS link*) now shows the tooltips you open: a card's
+  text, a Thanos's Shots, and the cards behind a counter, such as those in hand or
+  destroyed.
+
+**ES**
+- El overlay en tu stream (*Copy OBS link*) ahora muestra los tooltips que abres: el texto
+  de una carta, los disparos de un Thanos y las cartas de un contador, como las que están
+  en la mano o destruidas.
+
 ## 0.1.22 · 2026-10-06
 
 **EN**
