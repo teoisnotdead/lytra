@@ -2,6 +2,16 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.24 · 2026-10-06
+
+**EN**
+- Fixed: the opponent's panel could grow a scrollbar as their Thanos Fractured Frontier
+  fired and loaded again, above all in the 6 × 2 grid.
+
+**ES**
+- Arreglado: el panel del rival podía mostrar una barra de scroll cuando su Thanos
+  Fractured Frontier disparaba y volvía a cargar, sobre todo en la grilla de 6 × 2.
+
 ## 0.1.23 · 2026-10-06
 
 **EN**
