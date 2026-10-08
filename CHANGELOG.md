@@ -2,6 +2,24 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.26 · 2026-10-08
+
+**EN**
+- Dashboard: a match against a probable bot shows a robot beside the opponent's name, and
+  "Probable bot" when you open it. **No bots**, beside the filters, leaves those matches
+  out of every figure: your win rate without the bots of the climb.
+- Dashboard: a **Season** period, from the day the current ranked season began (the
+  month's first Tuesday), to see how this season goes rather than the last 30 days. Your
+  public profile has it too.
+
+**ES**
+- Dashboard: una partida contra un bot probable muestra un robot junto al nombre del rival,
+  y "Bot probable" al abrirla. **Sin bots**, junto a los filtros, deja esas partidas fuera
+  de todas las cifras: tu % de victorias sin los bots de la subida.
+- Dashboard: un período **Temporada**, desde que empezó la temporada clasificatoria actual
+  (el primer martes del mes), para ver cómo te va en esta temporada y no en los últimos 30
+  días. Tu perfil público también lo tiene.
+
 ## 0.1.25 · 2026-10-07
 
 **EN**
