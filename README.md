@@ -54,6 +54,11 @@ bug report* in Lytra's tray menu: it sends what Lytra saw, privately, and copies
 Post that code with what went wrong — never the report's file, which holds your profile
 and your opponents' names.
 
+## Support Lytra
+
+Lytra is free, and stays free for everyone. If it helps you, you can leave a tip on
+[Ko-fi](https://ko-fi.com/teo730). A tip unlocks nothing.
+
 ## Not affiliated
 
 Lytra is not affiliated with, endorsed or sponsored by Second Dinner, Nuverse, Marvel or
@@ -117,6 +122,11 @@ En el **[Discord de Lytra](https://discord.gg/QNSTW2PNqF)**: las versiones nueva
 bug, elige *Send a bug report* en el menú de Lytra en la bandeja: envía lo que vio Lytra, en
 privado, y copia un código. Publica ese código contando qué salió mal — nunca el archivo
 del reporte, que tiene tu perfil y los nombres de tus rivales.
+
+## Apoya a Lytra
+
+Lytra es gratis, y sigue gratis para todos. Si te sirve, puedes dejar una propina en
+[Ko-fi](https://ko-fi.com/teo730). Donar no desbloquea nada.
 
 ## Sin afiliación
 
