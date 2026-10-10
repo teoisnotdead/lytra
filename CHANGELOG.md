@@ -2,6 +2,23 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.27 · 2026-10-09
+
+**EN**
+- Fixed: switching windows could leave the overlay hidden behind the game until Lytra was
+  restarted. If another window ends up over it, it now comes back on top by itself within
+  half a second.
+- Fixed: a card the opponent transformed, like one Merlin's Polymorph turns into a Daken,
+  could add a thirteenth card to their grid when it made something, and carry it into the
+  next Conquest round.
+
+**ES**
+- Arreglado: al cambiar de ventana, el overlay podía quedar escondido detrás del juego hasta
+  reiniciar Lytra. Si otra ventana queda encima, ahora vuelve arriba solo en medio segundo.
+- Arreglado: una carta que el rival transformó, como una que el Polimorfo de Merlín convierte
+  en Daken, podía sumar una decimotercera carta a su grilla al crear algo, y llevarla a la
+  siguiente ronda de Conquista.
+
 ## 0.1.26 · 2026-10-08
 
 **EN**
