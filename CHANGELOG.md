@@ -2,6 +2,34 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.28 · 2026-10-12
+
+**EN**
+- Fixed: when the opponent's Cable took your Thanos Fractured Frontier and they played it,
+  the ring of their own Thanos disappeared from their panel for the rest of the match, and
+  your Thanos kept showing its Shots as loaded. Each Shot now stays with the Thanos it was
+  loaded into: their ring stays, and yours shows the Shots that went off. It is read the
+  same way when you take theirs and play it (LY-EDEGU7).
+- A card taken from the other player's deck, by a Cable or a Baron Zemo, is no longer
+  listed among the created cards: nothing created it. It shows on the grid of the deck it
+  came from, now with a thicker blue edge besides its arrows, to find it at a glance. A
+  Shot that goes off still counts as created, whoever fires it.
+- Dashboard: opening a match shows the opponent's cards as a 6 × 2 grid at the size of
+  yours, with a slot for each of their twelve you did not see.
+
+**ES**
+- Arreglado: cuando el Cable del rival se llevaba tu Thanos Fractured Frontier y lo jugaba,
+  el anillo de su propio Thanos desaparecía de su panel por el resto de la partida, y tu
+  Thanos seguía mostrando sus disparos como cargados. Ahora cada disparo se queda con el
+  Thanos en el que se cargó: su anillo se mantiene, y el tuyo muestra los disparos que
+  salieron. Se lee igual cuando tú te llevas el suyo y lo juegas (LY-EDEGU7).
+- Una carta tomada del mazo del otro jugador, por un Cable o un Baron Zemo, ya no aparece
+  entre las cartas creadas: nada la creó. Se ve en la grilla del mazo del que salió, ahora
+  con un borde celeste más grueso además de sus flechas, para encontrarla de un vistazo.
+  Un disparo que sale sigue contando como creado, lo dispare quien lo dispare.
+- Dashboard: al abrir una partida, las cartas del rival se ven en una grilla de 6 × 2 al
+  tamaño de las tuyas, con un espacio por cada una de sus doce que no viste.
+
 ## 0.1.27 · 2026-10-09
 
 **EN**
