@@ -2,6 +2,27 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.30 · 2026-10-13
+
+**EN**
+- Chat battle: every character and its command is now listed at **lytra.app/battle**, a page
+  made for a phone: tap a character to copy its command. The stream's sign-up panel shows
+  the address, and the Battle page has the link ready to copy into your chat.
+- Chat battle and quiz: the language they use on your stream is now on the Battle page too,
+  as **Language on the stream**, and there it applies as you pick it. It was only on the
+  Quiz page, as "Questions in", so the battle's rules could stay in English after you set
+  Lytra to Spanish.
+
+**ES**
+- Batalla del chat: todos los personajes y su comando están ahora en **lytra.app/battle**,
+  una página pensada para el teléfono: toca un personaje para copiar su comando. El panel
+  de inscripción del stream muestra la dirección, y la página Batalla tiene el enlace listo
+  para copiarlo en tu chat.
+- Batalla del chat y quiz: el idioma que usan en tu stream ahora está también en la página
+  Batalla, como **Idioma en el stream**, y ahí se aplica al elegirlo. Antes estaba solo en
+  la página Quiz, como "Idioma de las preguntas", y por eso las reglas de la batalla podían
+  seguir en inglés después de poner Lytra en español.
+
 ## 0.1.29 · 2026-10-13
 
 **EN**
