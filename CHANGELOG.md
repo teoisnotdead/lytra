@@ -2,6 +2,62 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.29 · 2026-10-13
+
+**EN**
+- Chat battle: a second game for your stream's chat, on the dashboard's new Battle page.
+  You open the sign-up, viewers type `!p` to join, each gets a pixel-art Marvel Snap
+  character, and when you start it everyone fights everyone: the last one standing wins.
+  Everyone has the same life and hits the same, so luck decides, and you hand out the
+  prize. It reads the same Twitch or Kick chat as the quiz, and never writes to it.
+- Viewers can pick their character: `!p thor`, in English or in Spanish, out of 105. A
+  character is one viewer's: the first to ask has it, and the stream says when one is
+  taken. They can change it while the sign-up is open, and with no name they get one at
+  random. The Battle page lists every name.
+- A battle can be a series: a few rounds in which everyone fights and scores, by their
+  place and by their kills, the standings after each round, and a final among the best.
+- Maps: Lytra's own court and colosseum, and the game's boards, read from your SNAP
+  install: Space, Vampires, Draft, Deadpool's Diner, Sanctum Showdown, Champion Arena,
+  Moon Colony and Team-Up. Pick one or Random: the Battle page shows the map as you pick
+  it, and an open sign-up changes to it at once.
+- Every rule is yours to set, and **+10 test fighters** shows you a battle before your
+  chat is in one.
+- One OBS source for both games: `http://127.0.0.1:47730/games/`. The address from before,
+  `/quiz/`, keeps working, so there is nothing to change in OBS.
+- Quiz: a new **Stream delay** setting, 5 seconds by default. A stream runs a few seconds
+  behind the game, and an answer typed near the end used to arrive too late: answers are
+  now read for those seconds after the countdown ends, and only then is the right one
+  shown. The default is also 30 seconds a question now; a time you had saved stays.
+- Quiz: its panel is solid, so the game behind it no longer shows through the text.
+
+**ES**
+- Batalla del chat: un segundo juego para el chat de tu stream, en la nueva página Batalla
+  del dashboard. Abres la inscripción, quien escriba `!p` entra, a cada uno le toca un
+  personaje de Marvel Snap en pixel art, y cuando empiezas pelean todos contra todos: gana
+  el último en pie. Todos tienen la misma vida y pegan igual, así que decide la suerte, y
+  el premio lo entregas tú. Lee el mismo chat de Twitch o Kick que el quiz, y nunca
+  escribe en él.
+- Cada uno puede elegir su personaje: `!p thor`, en español o en inglés, entre 105. Un
+  personaje es de uno solo: se lo queda quien lo pide primero, y el stream avisa cuando ya
+  está tomado. Se puede cambiar mientras la inscripción esté abierta, y sin nombre te toca
+  uno al azar. La página Batalla tiene la lista de nombres.
+- Una batalla puede ser una serie: varias rondas en que todos pelean y suman puntos, por
+  su puesto y por sus bajas, la tabla después de cada ronda, y una final entre los mejores.
+- Mapas: la cancha y el coliseo de Lytra, y los tableros del juego, leídos de tu
+  instalación de SNAP: Espacio, Vampiros, Draft, Deadpool's Diner, Sanctum Showdown,
+  Champion Arena, Colonia lunar y Team-Up. Elige uno o Al azar: la página Batalla muestra
+  el mapa al elegirlo, y una inscripción abierta cambia a él al instante.
+- Todas las reglas las pones tú, y con **+10 de prueba** ves una batalla antes de que tu
+  chat esté en una.
+- Una sola fuente de OBS para los dos juegos: `http://127.0.0.1:47730/games/`. La
+  dirección de antes, `/quiz/`, sigue funcionando: no hay que cambiar nada en OBS.
+- Quiz: un ajuste nuevo, **Delay del stream**, de 5 segundos por defecto. El stream llega
+  unos segundos después que el juego, y una respuesta escrita casi al final llegaba tarde:
+  ahora las respuestas se siguen leyendo esos segundos cuando la cuenta termina, y recién
+  entonces se muestra la correcta. Además, el tiempo por defecto es ahora de 30 segundos
+  por pregunta; si ya habías guardado el tuyo, se mantiene.
+- Quiz: su panel es sólido, así que el juego de fondo ya no se trasluce en el texto.
+
 ## 0.1.28 · 2026-10-12
 
 **EN**
