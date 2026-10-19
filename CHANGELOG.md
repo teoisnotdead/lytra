@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.31 · 2026-10-19
+
+**EN**
+- Grand Arena: the deck panel now shows the champion's deck you picked for the mode. It
+  showed the deck selected in your collection instead, so the cards you played counted as
+  made. Team Up's own deck is read the same way.
+- Grand Arena: a champion's tile is lettered with its name as the game letters it on the
+  board, where it showed the name in plain text. The champion's ability stays among the
+  made cards, as the game marks it.
+- Decks view: a card with 0 power shows its power, as the game does. Sunspot, Ironheart and
+  Taskmaster showed only their cost.
+
+**ES**
+- Grand Arena: el panel del mazo ahora muestra el mazo del campeón que elegiste para el
+  modo. Antes mostraba el mazo seleccionado en tu colección, así que las cartas que jugabas
+  contaban como creadas. El mazo propio de Team Up se lee de la misma forma.
+- Grand Arena: la casilla de un campeón lleva su nombre como lo muestra el juego en el
+  tablero; antes salía en texto simple. La habilidad del campeón sigue entre las cartas
+  creadas, como la marca el juego.
+- Vista Mazos: una carta con 0 de poder muestra su poder, como en el juego. Sunspot,
+  Ironheart y Taskmaster mostraban solo su costo.
+
 ## 0.1.30 · 2026-10-13
 
 **EN**
