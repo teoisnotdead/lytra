@@ -2,6 +2,26 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.32 · 2026-10-21
+
+**EN**
+- Zombie Galacti: the cards their Galacti chose, the ones it turns into copies of itself when
+  it reveals, now wear a zombie's head at the top of their tile and a lime edge, from the
+  moment they reveal infected to the end of the match. The game takes its own mark off a card
+  whose text is removed, by a Cosmic Ghost Rider for one, and the card still turns: Lytra
+  keeps it. (LY-VDF9VR)
+- The opponent's cards not yet revealed show Lytra's logo in their empty slots, as the
+  dashboard does after the match.
+
+**ES**
+- Zombie Galacti: las cartas que eligió su Galacti, las que convierte en copias de sí mismo
+  al revelarse, llevan ahora una cabeza de zombie arriba en su casilla y un borde lima, desde
+  que se revelan infectadas hasta el final de la partida. El juego le quita su marca a una
+  carta cuyo texto se elimina, por ejemplo con Cosmic Ghost Rider, y la carta igual se
+  transforma: Lytra la mantiene. (LY-VDF9VR)
+- Las cartas del rival que aún no se revelan muestran el logo de Lytra en su casilla vacía,
+  como lo hace el dashboard después de la partida.
+
 ## 0.1.31 · 2026-10-19
 
 **EN**
