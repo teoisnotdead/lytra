@@ -2,6 +2,20 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.33 · 2026-10-24
+
+**EN**
+- Team Up: the team cards (Selene, White Queen and the rest of the Brotherhood of Mutants,
+  and the earlier teams' too) show their character's art on the panels and in the
+  dashboard, where only their name showed. The game paints them over the team's own
+  background; Lytra shows the card's usual one.
+
+**ES**
+- Team Up: las cartas de equipo (Selene, White Queen y el resto de la Hermandad de
+  Mutantes, y también las de los equipos anteriores) muestran el arte de su personaje en los
+  paneles y en el dashboard; antes solo se veía su nombre. El juego las dibuja sobre el fondo
+  propio del equipo; Lytra muestra el fondo de siempre de la carta.
+
 ## 0.1.32 · 2026-10-21
 
 **EN**
