@@ -24,7 +24,7 @@ the file ending in `-setup.exe`. What changed in each version is in the
 - **A battle for your stream's chat**: viewers type `!p` and fight as pixel-art Marvel Snap
   characters, the one they pick or a random one, until one is left standing. On the
   dashboard's Battle page, in the same OBS browser source as the quiz. Every character and
-  its command: [lytra.app/battle](https://lytra.app/battle).
+  its command: [snap.lytra.app/battle](https://snap.lytra.app/battle).
 - **Updates itself**: when it opens, it installs a newer version if there is one.
 
 ## What it reads, and what it does not
@@ -97,7 +97,7 @@ el archivo que termina en `-setup.exe`. Qué cambió en cada versión está en e
 - **Una batalla para el chat de tu stream**: quien escriba `!p` pelea con un personaje de
   Marvel Snap en pixel art, el que elija o uno al azar, hasta que queda uno en pie. En la
   página Batalla del dashboard, en la misma fuente de navegador de OBS que el quiz. Todos
-  los personajes y su comando: [lytra.app/battle](https://lytra.app/battle).
+  los personajes y su comando: [snap.lytra.app/battle](https://snap.lytra.app/battle).
 - **Se actualiza solo**: al abrirse, instala la versión nueva si la hay.
 
 ## Qué lee, y qué no
