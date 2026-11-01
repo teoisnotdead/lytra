@@ -2,6 +2,40 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.34 · 2026-11-01
+
+**EN**
+- Friendly battles: after a reconnect, a new battle no longer shows the previous battle's
+  cards on the opponent's panel. Lytra now asks the game which battle each round belongs to,
+  in Conquest duels too.
+- Dashboard, a match's details: the opponent's cards show everything the duel revealed, in
+  colour the ones seen in that round and in grey the ones only the other rounds showed.
+- Dashboard, a match's details: Copy code copies the opponent's deck as far as it was seen,
+  to paste in MARVEL SNAP's deck editor. A deck seen in part says so, and the game leaves the
+  slots of cards you don't have empty.
+- Dashboard: spells show only their cost, with no power (Techno-Organic Virus, The Hunger).
+- Dashboard: the cards you never drew have a dashed edge again, apart from the ones you drew
+  and kept in hand.
+- Dashboard: two decks with the same name and little in common are told apart by their key
+  cards, instead of a list of every card that differs.
+
+**ES**
+- Batallas amistosas: tras una reconexión, una batalla nueva ya no muestra las cartas de la
+  batalla anterior en el panel del rival. Lytra ahora le pregunta al juego a qué batalla
+  pertenece cada ronda, también en los duelos de Conquista.
+- Dashboard, el detalle de una partida: las cartas del rival muestran todo lo que reveló en
+  el duelo, a color las que se vieron en esa ronda y en gris las que solo mostraron las otras
+  rondas.
+- Dashboard, el detalle de una partida: Copiar código copia el mazo del rival hasta donde se
+  vio, para pegarlo en el editor de mazos de MARVEL SNAP. Un mazo visto en parte lo dice, y el
+  juego deja vacías las casillas de las cartas que no tienes.
+- Dashboard: los hechizos muestran solo su coste, sin poder (Techno-Organic Virus, The
+  Hunger).
+- Dashboard: las cartas que nunca robaste vuelven a tener un borde segmentado, distinto de
+  las que robaste y quedaron en la mano.
+- Dashboard: dos mazos con el mismo nombre y pocas cartas en común se distinguen por sus
+  cartas clave, en vez de una lista con cada carta que cambia.
+
 ## 0.1.33 · 2026-10-24
 
 **EN**
