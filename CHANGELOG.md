@@ -2,6 +2,21 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.36 · 2026-11-02
+
+**EN**
+- Chat battle: the winner's screen now has the final standings under them, the first ten, so
+  you can see who is next if the winner can't take the prize. A single fight has them too.
+- Chat battle: the winner of a series or a single fight shows in the middle of the screen.
+- Chat battle: after each round of a series you see who won it, above the points table.
+
+**ES**
+- Batalla del chat: la pantalla del ganador ahora trae debajo la tabla final con los diez
+  primeros, para ver a quién le toca si quien gana no puede recibir el premio. La pelea única
+  también la tiene.
+- Batalla del chat: el ganador de una serie o de una pelea única sale al medio de la pantalla.
+- Batalla del chat: tras cada ronda de una serie sale quién la ganó, sobre la tabla de puntos.
+
 ## 0.1.35 · 2026-11-02
 
 **EN**
