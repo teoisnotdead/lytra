@@ -2,6 +2,22 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.35 · 2026-11-02
+
+**EN**
+- Your panel: a card an effect brings onto the board, like the top card Jubilee adds, no
+  longer stays in the deck offered as a draw. It shows as played (LY-6XFXPM).
+- Your panel: the same for a card an effect adds from your hand, like Anti-Polar Magneto's.
+  And a card sent back to your deck, like the one Apocalypse swaps out, shows in the deck
+  again and can be drawn.
+
+**ES**
+- Tu panel: una carta que un efecto pone en el tablero, como la carta superior que agrega
+  Jubilee, ya no queda en el mazo ofrecida como robo. Se muestra como jugada (LY-6XFXPM).
+- Tu panel: lo mismo con una carta que un efecto agrega desde tu mano, como las de Anti-Polar
+  Magneto. Y una carta que vuelve a tu mazo, como la que cambia Apocalypse, aparece otra vez
+  en el mazo y se puede robar.
+
 ## 0.1.34 · 2026-11-01
 
 **EN**
