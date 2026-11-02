@@ -2,6 +2,26 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.37 · 2026-11-02
+
+**EN**
+- Chat battle: sound effects for the hits, dodges, falls, the countdown and the winner, made
+  by Lytra itself. They are off by default: turn them on, set the volume and try them on the
+  Battle page, under OBS. They play from the OBS source, not from the page.
+- Chat battle: the countdown now counts 3, 2, 1. It used to skip the 3 and the 2 and show
+  "Fight!" twice.
+- Stream quiz: the winner's screen now shows the first ten, with the winner on top, so you can
+  see who is next if the winner can't take the prize.
+
+**ES**
+- Batalla del chat: efectos de sonido para los golpes, esquives, caídas, la cuenta atrás y el
+  ganador, hechos por Lytra. Vienen apagados: se activan, se ajusta el volumen y se prueban en
+  la página Batalla, en "En OBS". Suenan desde la fuente de OBS, no desde la página.
+- Batalla del chat: la cuenta atrás ahora cuenta 3, 2, 1. Antes se saltaba el 3 y el 2, y
+  mostraba "¡A pelear!" dos veces.
+- Quiz del stream: la pantalla del ganador ahora muestra a los diez primeros, con el ganador
+  arriba, para ver a quién le toca si quien gana no puede recibir el premio.
+
 ## 0.1.36 · 2026-11-02
 
 **EN**
