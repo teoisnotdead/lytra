@@ -2,6 +2,64 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.38 · 2026-11-03
+
+**EN**
+- Stream quiz: the answer is now `!a`, `!b`, `!c` or `!d`. `!r a` to `!r d` no longer count.
+- Stream quiz: an answer sent from 7TV or Chatterino now counts when the app adds its invisible
+  character to repeat a message. It used to be ignored.
+- Stream quiz: the table between questions now shows ten players, with an arrow for how many
+  places each one went up or down, and they move to their new places on screen. The final
+  table does it too.
+- Stream quiz: about a hundred cards that never came up can now be asked: the Zombie, Fractured
+  Frontier, Horseman, First Steps and Brand New Day cards, Quinjet, and cards with a text in
+  common words like Elektra, Cable and Venom. Only cards with almost no text stay out.
+- Stream quiz: a new setting picks the language of the card names: both, Spanish only or English
+  only, apart from the language of the questions.
+- Stream quiz: Restart round now asks you to confirm, and Skip, Restart round and End stand apart
+  from Pause and Resume, so going for Resume can't restart the round by mistake.
+- Chat battle: the address on the stream and the link to copy for your chat now say
+  **snap.lytra.app/battle**.
+- Updates: if the installer can't start, Lytra now stays open and says so, with a try again,
+  instead of disappearing while it kept running in the background. The reason goes in the bug
+  report.
+- Updates: a download that stalls now fails after 30 seconds instead of waiting forever.
+- Opponent's panel: a card they only borrowed no longer goes on their grid as part of their
+  deck. A Rama-Tut using another card's On Reveal, or a Kang with another card's text, could
+  add it there and carry it to the next Conquest rounds, up to thirteen cards (LY-SMQJHU).
+- Your panel: when a Loki replaces your deck, even one your Baron Zemo recruited, the cards you
+  had left show as gone instead of being offered as draws (LY-SMQJHU). The same for the cards
+  your Blob merges from your deck.
+
+**ES**
+- Quiz del stream: ahora se responde con `!a`, `!b`, `!c` o `!d`. `!r a` a `!r d` ya no cuentan.
+- Quiz del stream: una respuesta enviada desde 7TV o Chatterino ahora cuenta cuando la app le
+  agrega su carácter invisible para repetir un mensaje. Antes se ignoraba.
+- Quiz del stream: unas cien cartas que nunca salían ahora pueden salir: las Zombie, Fractured
+  Frontier, Horseman, First Steps y Brand New Day, Quinjet, y las de texto con palabras comunes
+  como Elektra, Cable y Venom. Solo quedan fuera las cartas casi sin texto.
+- Quiz del stream: un nuevo ajuste elige el idioma de los nombres de las cartas: los dos, solo
+  español o solo inglés, aparte del idioma de las preguntas.
+- Quiz del stream: la tabla entre preguntas ahora muestra a diez jugadores, con una flecha de
+  cuántos puestos subió o bajó cada uno, y se mueven a su nuevo puesto en pantalla. La tabla
+  final también.
+- Quiz del stream: Reiniciar ronda ahora pide confirmación, y Saltar, Reiniciar ronda y Terminar
+  están aparte de Pausar y Reanudar, para que al ir a Reanudar no se reinicie la ronda por error.
+- Batalla del chat: la dirección que sale en el stream y el enlace para copiar en tu chat ahora
+  dicen **snap.lytra.app/battle**.
+- Actualizaciones: si el instalador no puede arrancar, Lytra ahora sigue abierto y lo avisa, con
+  la opción de reintentar, en vez de desaparecer y quedar corriendo en segundo plano. El motivo
+  queda en el reporte de bugs.
+- Actualizaciones: una descarga que se traba ahora falla a los 30 segundos en vez de esperar
+  para siempre.
+- Panel del rival: una carta que solo tomó prestada ya no entra a su grilla como parte de su
+  mazo. Un Rama-Tut usando el Al revelarse de otra carta, o un Kang con el texto de otra, podía
+  agregarla ahí y llevarla a las siguientes rondas de Conquista, hasta llegar a trece cartas
+  (LY-SMQJHU).
+- Tu panel: cuando un Loki reemplaza tu mazo, incluso uno que reclutó tu Baron Zemo, las cartas
+  que te quedaban se muestran como perdidas en vez de ofrecerse como robo (LY-SMQJHU). Lo mismo
+  con las cartas de tu mazo que fusiona tu Blob.
+
 ## 0.1.37 · 2026-11-02
 
 **EN**
@@ -146,7 +204,7 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
 ## 0.1.30 · 2026-10-13
 
 **EN**
-- Chat battle: every character and its command is now listed at **lytra.app/battle**, a page
+- Chat battle: every character and its command is now listed at **snap.lytra.app/battle**, a page
   made for a phone: tap a character to copy its command. The stream's sign-up panel shows
   the address, and the Battle page has the link ready to copy into your chat.
 - Chat battle and quiz: the language they use on your stream is now on the Battle page too,
@@ -155,7 +213,7 @@ Each version in English, then in Spanish. *Cada versión en inglés y luego en e
   Lytra to Spanish.
 
 **ES**
-- Batalla del chat: todos los personajes y su comando están ahora en **lytra.app/battle**,
+- Batalla del chat: todos los personajes y su comando están ahora en **snap.lytra.app/battle**,
   una página pensada para el teléfono: toca un personaje para copiar su comando. El panel
   de inscripción del stream muestra la dirección, y la página Batalla tiene el enlace listo
   para copiarlo en tu chat.

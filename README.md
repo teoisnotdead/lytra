@@ -19,7 +19,7 @@ the file ending in `-setup.exe`. What changed in each version is in the
   how each card does in them. Click **YOU** on the overlay, or *Open dashboard* in the
   tray.
 - **A quiz for your stream's chat**: a card's ability with its telling words blanked, and
-  your Twitch or Kick chat racing to name the card with `!r a` to `!r d`. On the
+  your Twitch or Kick chat racing to name the card with `!a` to `!d`. On the
   dashboard's Quiz page, shown in OBS as a browser source.
 - **A battle for your stream's chat**: viewers type `!p` and fight as pixel-art Marvel Snap
   characters, the one they pick or a random one, until one is left standing. On the
@@ -92,8 +92,8 @@ el archivo que termina en `-setup.exe`. Qué cambió en cada versión está en e
   y cómo rinde cada carta en ellos. Haz clic en **YOU** en el overlay, o en *Open
   dashboard* en la bandeja.
 - **Un quiz para el chat de tu stream**: la habilidad de una carta con sus palabras clave
-  tapadas, y tu chat de Twitch o Kick compitiendo por nombrar la carta con `!r a` a
-  `!r d`. En la página Quiz del dashboard, y en OBS como fuente de navegador.
+  tapadas, y tu chat de Twitch o Kick compitiendo por nombrar la carta con `!a` a
+  `!d`. En la página Quiz del dashboard, y en OBS como fuente de navegador.
 - **Una batalla para el chat de tu stream**: quien escriba `!p` pelea con un personaje de
   Marvel Snap en pixel art, el que elija o uno al azar, hasta que queda uno en pie. En la
   página Batalla del dashboard, en la misma fuente de navegador de OBS que el quiz. Todos
