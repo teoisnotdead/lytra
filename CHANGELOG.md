@@ -2,6 +2,18 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.39 · 2026-11-11
+
+**EN**
+- Opponent's panel: when you play Zombie Galacti, a card of theirs no longer gets the infected
+  mark. A card they revealed right before one of your infected cards could wear it, like a
+  Mobius M. Mobius (LY-D5SY4V). Your own six were, and are, marked right.
+
+**ES**
+- Panel del rival: cuando juegas Zombie Galacti, una carta suya ya no queda con la marca de
+  infectada. Una carta que revelaba justo antes de una de tus infectadas podía llevarla, como
+  un Mobius M. Mobius (LY-D5SY4V). Tus seis se marcaban, y se marcan, bien.
+
 ## 0.1.38 · 2026-11-03
 
 **EN**
