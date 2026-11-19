@@ -2,6 +2,24 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.40 · 2026-11-19
+
+**EN**
+- Draft: Lytra reads the new event again (Marketplace_Nov26). The game's update moved where it
+  keeps the run, so the overlay showed your selected deck instead of the run's twelve, and the
+  strip had no record, no extra life and no daily bonus. All of it is back.
+- Draft: a trinket's effect no longer goes on the opponent's grid as if it were a card.
+- Your panel: a card of your own twelve that a Castle Zemo sent over to their side now wears
+  the switched-sides mark on your grid, as a card of theirs does on theirs.
+
+**ES**
+- Draft: Lytra vuelve a leer el evento nuevo (Marketplace_Nov26). La actualización del juego
+  cambió dónde guarda el run, y el overlay mostraba tu mazo seleccionado en vez de las doce del
+  run, y la tira no tenía récord, vida extra ni bono diario. Todo eso vuelve.
+- Draft: el efecto de un trinket ya no aparece en la grilla del rival como si fuera una carta.
+- Tu panel: una carta de tus doce que un Castle Zemo mandó al lado de ellos ahora lleva la marca
+  de cambio de lado en tu grilla, como una de ellos en la suya.
+
 ## 0.1.39 · 2026-11-11
 
 **EN**
