@@ -2,6 +2,16 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.1.41 · 2026-11-23
+
+**EN**
+- Draft: the Rocks a run makes in different sizes (Rock 2/4, 3/6, 4/7 and so on) now show the
+  Rock's picture on the opponent's panel, where their tile was left bare.
+
+**ES**
+- Draft: las Rocas que el run crea en distintos tamaños (Roca 2/4, 3/6, 4/7 y así) ahora
+  muestran el arte de la Roca en el panel del rival, donde su carta quedaba sin imagen.
+
 ## 0.1.40 · 2026-11-19
 
 **EN**
